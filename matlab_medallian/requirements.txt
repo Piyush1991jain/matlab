@@ -1,0 +1,5 @@
+pyspark
+fastapi
+uvicorn
+databricks-sql-connector[pyarrow]
+databricks-sql-connector
